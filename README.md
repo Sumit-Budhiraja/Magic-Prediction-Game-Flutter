@@ -3,4 +3,7 @@
 
 ## ScreenShots of app:- 
 
-<img src=""
+<img src="https://github.com/Sumit-Budhiraja/Magic-Prediction-Game-Flutter/blob/master/ss/1.jfif" width="450"></img>
+<img src="https://github.com/Sumit-Budhiraja/Magic-Prediction-Game-Flutter/blob/master/ss/2.jfif" width="450"></img>
+
+## [Download the app]()
