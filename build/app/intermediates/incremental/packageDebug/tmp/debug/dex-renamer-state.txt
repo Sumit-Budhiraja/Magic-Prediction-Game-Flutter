@@ -1,0 +1,4 @@
+#Tue Apr 07 02:27:30 IST 2020
+base.0=E\:\\flutter_apps\\magic_ball_game\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
